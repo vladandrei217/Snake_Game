@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(44,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(45,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(152,22): warning C4309: '=': truncation of constant value
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(221,22): warning C4309: '=': truncation of constant value
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(255,14): warning C4101: 'prev': unreferenced local variable
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(326,16): warning C4309: 'initializing': truncation of constant value
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(327,16): warning C4309: 'initializing': truncation of constant value
+C:\Programare\Programe C++\De-ale mele\SnakeGame\main.cpp(328,20): warning C4309: 'initializing': truncation of constant value
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 26 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SnakeGame.vcxproj -> C:\Programare\Programe C++\De-ale mele\SnakeGame\Release\SnakeGame.exe

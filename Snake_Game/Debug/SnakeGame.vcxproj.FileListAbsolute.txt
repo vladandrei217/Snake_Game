@@ -1,0 +1,2 @@
+C:\Programare\Programe C++\De-ale mele\SnakeGame\Debug\SnakeGame.exe
+C:\Programare\Programe C++\De-ale mele\SnakeGame\Debug\SnakeGame.pdb
